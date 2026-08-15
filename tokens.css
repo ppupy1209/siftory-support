@@ -1,7 +1,7 @@
 /* Hallmark · Grid tokens · self-hosted type · no external request */
 @font-face {
   font-family: "Archivo";
-  src: url("./fonts/Archivo.ttf") format("truetype-variations");
+  src: url("./fonts/Archivo.ttf?v=20260815") format("truetype-variations");
   font-style: normal;
   font-weight: 100 900;
   font-stretch: 62% 125%;

@@ -18,7 +18,8 @@
     "verification": "320, 375, 414, 768, 1280, 1920 CSS-pixel frames; desktop full-page render; Hallmark gates 1-58",
     "fixes": [
       "preserved capture proportions instead of forcing 1800px intrinsic height",
-      "restored structured privacy footer with 44px interactive targets"
+      "restored structured privacy footer with 44px interactive targets",
+      "versioned static design assets to prevent stale GitHub Pages styles"
     ],
     "regressions": "no horizontal overflow, wrapped affordances, undersized two-axis targets, or privacy-copy changes"
   }
