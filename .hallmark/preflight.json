@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-15",
+  "framework": "Vanilla HTML and CSS",
+  "font_stack": "Self-hosted Archivo variable font with local system fallback",
+  "palette": "Cool near-white paper with ultramarine accent",
+  "motion": "Motion-cut; links only",
+  "spacing": "4-point custom-property scale",
+  "preserved": [
+    "Static GitHub Pages architecture",
+    "No JavaScript",
+    "No analytics or third-party network requests",
+    "English and Korean support",
+    "Public privacy policy"
+  ],
+  "sources": [
+    "index.html",
+    "privacy.html",
+    "styles.css",
+    "tokens.css"
+  ]
+}

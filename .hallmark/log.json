@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-08-15",
+    "macrostructure": "Workbench",
+    "theme": "Grid",
+    "enrichment": "real App Store captures",
+    "brief": "Siftory global product, support, and privacy landing page"
+  },
+  {
+    "date": "2026-08-15",
+    "macrostructure": "Long Document",
+    "theme": "Editorial",
+    "enrichment": "none",
+    "brief": "Siftory support and privacy documents"
+  },
+  {
+    "date": "2026-08-15",
+    "verification": "320, 375, 414, 768, 1280, 1920 CSS-pixel frames; desktop full-page render; Hallmark gates 1-58",
+    "fixes": [
+      "preserved capture proportions instead of forcing 1800px intrinsic height",
+      "restored structured privacy footer with 44px interactive targets"
+    ],
+    "regressions": "no horizontal overflow, wrapped affordances, undersized two-axis targets, or privacy-copy changes"
+  }
+]
